@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayirkal23" alt="ajayirkal23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajayirkal23" target="blank"><img src="https://img.shields.io/twitter/follow/ajayirkal23?logo=twitter&style=for-the-badge" alt="ajayirkal23" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [demo@github.com](demo@github.com)
 
@@ -17,14 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajayirkal" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://www.codeply.com/u/ajayirkal012346" alt="ajayirkal" height="30" width="40" /></a>
 <a href="https://twitter.com/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayirkal23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayirkal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ajayirkal.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajayirkal.23" height="30" width="40" /></a>
 <a href="https://fb.com/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayirkal" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayirkal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayirkal14" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mercy-yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mercy-yt" height="30" width="40" /></a>
-<a href="https://discord.gg/Pavanirkal01#5373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pavanirkal01#5373" height="30" width="40" /></a>
+<a href="https://discord.gg/FvMfTU6T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pavanirkal01#5373" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

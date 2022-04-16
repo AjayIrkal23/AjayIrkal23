@@ -16,8 +16,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  ### About Me : </h2>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+🙇‍♂️About Me : </h2>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
 

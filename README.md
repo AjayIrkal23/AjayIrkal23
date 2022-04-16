@@ -42,16 +42,9 @@
 
 -## 😂 Here is a random joke that'll make you laugh!<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
-  <div>
  
-  
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 
 <a href="https://stackoverflow.com/users/18825790/ajay-irkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajayirkal.23" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayirkal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayirkal14" height="30" width="40" /></a>

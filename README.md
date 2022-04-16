@@ -18,11 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/AjayIrkal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayirkal23" height="30" width="40" /></a> <br>
+<a href="https://twitter.com/AjayIrkal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayirkal23" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/ajay-irkal-21b972147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayirkal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18825790/ajay-irkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajayirkal.23" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayirkal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayirkal14" height="30" width="40" /></a>
-
 <a href="https://discord.gg/FvMfTU6T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pavanirkal01#5373" height="30" width="40" /></a>
 </p>
 
@@ -31,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayirkal23&show_icons=true&locale=en&layout=compact" alt="ajayirkal23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayirkal23&show_icons=true&locale=en" alt="ajayirkal23" /></p>
+<p

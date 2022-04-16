@@ -11,10 +11,11 @@
     <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
+      
+ </div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
- </div>
 </div>
 <div align="center">
   <h1>

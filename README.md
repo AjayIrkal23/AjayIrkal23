@@ -27,13 +27,6 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayirkal23" alt="ajayirkal23" /></a> </p>
-
-
-
 - 👨‍💻 All of my projects are available at [demo@github.com](demo@github.com)
 
 - 📫 How to reach me **ajayirkal23@gmail.com**
@@ -44,7 +37,7 @@
 
 -## 😂 Here is a random joke that'll make you laugh!<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayirkal23" alt="ajayirkal23" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>

@@ -7,7 +7,7 @@
   <a href="https://twitter.com/AjayIrkal4">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayirkal23&label=Profile%20views&color=0e75b6&style=flat" alt="ajayirkal23" /> </p>
+    <p> <img src="https://komarev.com/ghpvc/?username=ajayirkal23&label=Profile%20views&color=0e75b6&style=flat" alt="ajayirkal23" /> </p>
 </div>
 </div>
 

@@ -37,7 +37,13 @@
 
 -## 😂 Here is a random joke that'll make you laugh!<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayirkal23" alt="ajayirkal23" /></a> </p>
+  <div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+  </a>
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>

@@ -37,7 +37,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayirkal" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/18825790/ajay-irkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajayirkal.23" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayirkal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayirkal14" height="30" width="40" /></a>
 <a href="https://discord.gg/FvMfTU6T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pavanirkal01#5373" height="30" width="40" /></a>

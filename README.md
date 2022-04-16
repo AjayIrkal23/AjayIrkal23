@@ -7,6 +7,7 @@
   <a href="https://twitter.com/AjayIrkal4">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayirkal23&label=Profile%20views&color=0e75b6&style=flat" alt="ajayirkal23" /> </p>
 </div>
 </div>
 
@@ -15,7 +16,7 @@
 <h1 align="center" class ="name" style="font-family: 'Courier New', Courier, monospace;">Hi 👋, I'm Ajay Irkal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayirkal23&label=Profile%20views&color=0e75b6&style=flat" alt="ajayirkal23" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayirkal23" alt="ajayirkal23" /></a> </p>
 

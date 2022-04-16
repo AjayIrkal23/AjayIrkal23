@@ -11,6 +11,9 @@
     <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+  </a>
  </div>
 </div>
 <div align="center">
@@ -39,10 +42,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
   <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
+  
+
 
 
 

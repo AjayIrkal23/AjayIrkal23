@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://www.codeply.com/u/ajayirkal012346" alt="ajayirkal" height="30" width="40" /></a>
-<a href="https://twitter.com/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayirkal23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayirkal" height="30" width="40" /></a>
+
+<a href="https://twitter.com/AjayIrkal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayirkal23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay irkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayirkal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ajayirkal.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajayirkal.23" height="30" width="40" /></a>
 <a href="https://fb.com/ajayirkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayirkal" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayirkal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayirkal14" height="30" width="40" /></a>
